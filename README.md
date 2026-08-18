@@ -61,7 +61,7 @@ https://www.vkchauhangoldy.com
     <img src="https://img.shields.io/badge/Learning%20%26%20Development%20Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="‎https://whatsapp.com/channel/0029Vb8HAii7T8bctLlSt41P">
+  <a href="https://whatsapp.com/channel/0029Vb8HAii7T8bctLlSt41P">
     <img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
