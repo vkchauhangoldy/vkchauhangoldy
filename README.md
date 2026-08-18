@@ -60,7 +60,7 @@ https://www.vkchauhangoldy.com
   </a>
 
   <a href="https://www.vkchauhangoldy.com/">
-    <img src="https://img.shields.io/badge/Learning%20%26%20Development%20Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <a href="https://whatsapp.com/channel/0029Vb8HAii7T8bctLlSt41P">
