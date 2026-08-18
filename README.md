@@ -56,9 +56,15 @@ https://www.vkchauhangoldy.com
   <a href="https://www.linkedin.com/in/vinay-kumar-chauhan-543203226/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.vkchauhangoldy.com/">
-  <img src="https://img.shields.io/badge/DSA%20Learning%20Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Learning%20%26%20Development%20Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="‎Follow the VK Chauhan Goldy's Community channel on WhatsApp: https://whatsapp.com/channel/0029Vb8HAii7T8bctLlSt41P">
+    <img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
   <a href="mailto:contact@vkchauhangoldy.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
