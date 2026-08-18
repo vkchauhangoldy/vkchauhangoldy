@@ -45,13 +45,12 @@ https://www.vkchauhangoldy.com
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
 </p>
 
-### Tools & DevOps
+### 🛠️ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,android" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="50" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" />
 </p>
-
-**Android Studio • Android SDK • Git • GitHub • Docker • Postman • VS Code**
 
 ## 🌐 Connect With Me
 
