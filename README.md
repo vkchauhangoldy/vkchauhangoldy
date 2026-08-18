@@ -19,7 +19,7 @@ I work across software development and computer science education, building real
 I also run a platform focused on **DSA, programming, and software development**, helping developers learn concepts, improve problem-solving skills, and build practical projects.
 
 🌐 **Explore the platform:**  
-[www.vkchauhangoldy.com](https://www.vkchauhangoldy.com/)
+https://www.vkchauhangoldy.com
 
 
 ## 🛠️ Tech Stack
