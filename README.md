@@ -12,3 +12,26 @@ I specialize in turning ideas into real-world products across web, mobile, and b
 - 🚀 Product-focused development
 
 I enjoy solving real-world problems with technology and continuously improving my craft.
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
