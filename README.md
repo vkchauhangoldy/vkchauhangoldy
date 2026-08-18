@@ -29,12 +29,16 @@ https://www.vkchauhangoldy.com
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
-### Mobile
+### 📱 Mobile Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,typescript" height="50" />
+  <img src="https://cdn.simpleicons.org/expo/000000" height="50" />
 </p>
 
-**React Native • Expo • Cross-platform Development**
+<p>
+  <strong>React Native</strong> • <strong>Expo</strong> • <strong>TypeScript</strong>
+</p>
 
 ### Backend & Database
 <p>
