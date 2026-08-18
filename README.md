@@ -1,22 +1,26 @@
-# 👋 Hi, I'm VK Chauhan Goldy
-
-### Full-Stack & React Native Developer
-
-I build modern, scalable, and user-focused web and mobile applications — from intuitive interfaces to reliable backend systems.
-
 ## 👨‍💻 About Me
 
-I'm a Full-Stack & React Native Developer focused on turning ideas into real-world products across web, mobile, and backend systems.
+I'm VK Chauhan Goldy, a Full-Stack & React Native Developer and DSA Educator focused on building modern, scalable, and user-friendly applications.
+
+I work across software development and computer science education, building real-world products while helping developers strengthen their Data Structures & Algorithms and problem-solving skills.
 
 - 🌐 Full-Stack Web Development
 - 📱 React Native & Expo
 - ⚙️ Node.js & Express
 - 🗄️ MongoDB & PostgreSQL
-- 🟦 TypeScript & JavaScript
+- 🧠 Data Structures & Algorithms
+- 🎓 Developer & DSA Education
 - 🎨 Clean & responsive UI
 - 🚀 Product-focused development
 
-I enjoy solving real-world problems with technology and continuously improving my craft.
+
+## 🚀 Learning & Development Platform
+
+I also run a platform focused on **DSA, programming, and software development**, helping developers learn concepts, improve problem-solving skills, and build practical projects.
+
+🌐 **Explore the platform:**  
+[www.vkchauhangoldy.com](https://www.vkchauhangoldy.com/)
+
 
 ## 🛠️ Tech Stack
 
@@ -49,8 +53,8 @@ I enjoy solving real-world problems with technology and continuously improving m
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.vkchauhangoldy.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/DSA%20Learning%20Platform-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
   <a href="mailto:contact@vkchauhangoldy.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
